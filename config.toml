@@ -1,4 +1,4 @@
-baseurl = "hardcore-leavitt-e0d46b.netlify.com"
+baseurl = "https://hardcore-leavitt-e0d46b.netlify.com"
 title = "marcoucou"
 theme = "hugo-coder"
 languagecode = "en"
