@@ -1,4 +1,4 @@
-baseurl = "marcoucou.com"
+baseurl = ""
 title = "marcoucou"
 theme = "hugo-coder"
 languagecode = "en"
